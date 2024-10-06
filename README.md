@@ -27,7 +27,7 @@ This project aims to predict the outcome of IPL matches using machine learning t
 ## Usage
 1. Run the application:
     ```bash
-    python app.py
+    streamlit run app.py
     ```
 2. Open your browser and go to `http://localhost:5000` to access the application.
 
