@@ -38,7 +38,7 @@ with col3:
 with col4:
     overs = st.number_input('Overs Completed')
 with col5:
-    wickets = st.number_input('Wickets out')
+    wickets = st.number_input('Wickets Lost')
 
 if st.button("Predict Probability"):
     if overs > 0:
